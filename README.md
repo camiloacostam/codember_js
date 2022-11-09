@@ -6,6 +6,8 @@ En [Codember](https://codember.dev) version 2022 cada semana se publicara un nue
 
 ## Retos
 
+- [Retos Semana 1](https://github.com/camiloacostam/codember_js/tree/main/challenge01)
+
 ## Contribuir
 
 Como hago este reto con el objetivo de aprender acepto sugerencias, mejoras y otras soluciones. Tienes otra solución para un ejercicio? Puedes hacer un pull request con tu solución.
