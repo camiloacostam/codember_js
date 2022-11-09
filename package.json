@@ -1,0 +1,24 @@
+{
+  "name": "codember_js",
+  "version": "1.0.0",
+  "description": "Este es un repositorio que creo para publicar el código con las soluciones de los ejercicios del reto de [Codember](https://codember.dev) los cuales solucionaré utilizando JavaScript.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camiloacostam/codember_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camiloacostam/codember_js/issues"
+  },
+  "homepage": "https://github.com/camiloacostam/codember_js#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
